@@ -1,0 +1,15 @@
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\bin\Debug\net8.0\Assignment4_Questions.exe
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\bin\Debug\net8.0\Assignment4_Questions.deps.json
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\bin\Debug\net8.0\Assignment4_Questions.runtimeconfig.json
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\bin\Debug\net8.0\Assignment4_Questions.dll
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\bin\Debug\net8.0\Assignment4_Questions.pdb
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.AssemblyInfoInputs.cache
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.AssemblyInfo.cs
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.sourcelink.json
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.dll
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\refint\Assignment4_Questions.dll
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.pdb
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\Assignment4_Questions.genruntimeconfig.cache
+C:\Users\XPRISTO\source\repos\Assignment4_Questions\obj\Debug\net8.0\ref\Assignment4_Questions.dll
